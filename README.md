@@ -21,7 +21,7 @@ Para más detalles accede a *[Tableau Public](https://public.tableau.com/app/pro
 
 ## Autor
 
-Nombre: Verónica Moncada
+Verónica Moncada
 
 
 
