@@ -1,5 +1,5 @@
 # Análisis de Proceso de Admisión en Ironhack
-![cross](/imagenes/titulo.jpeg)  
+![cross](https://readytrainingonline.com/wp-content/uploads/2021/06/06-28-21-Decision-Making-with-Empathy.jpg)  
 
 # Descripción
 El objetivo de este proyecto será analizar el proceso de admisión de alumnos en Ironhack España, una escuela de tecnología reconocida. El análisis tiene como objetivo comprender e identificar si existen patrones o tendencias en relación con la decisión de los estudiantes de continuar o abandonar el proceso de admisión, y además entender en qué etapa se abandona. Para ello, se explorarán diferentes aspectos del proceso de admisión, como canales de marketing, formato de curso, campus, curso de interés, género, país de procedencia, entre otros, y si estos influyen en la decisión de los estudiantes de abandonar o continuar con su proceso de admisión.
