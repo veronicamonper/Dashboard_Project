@@ -12,13 +12,16 @@ El objetivo de este proyecto será analizar cómo se comporta el proceso de admi
 # Datos
 Los datos utilizados para este análisis provienen de las aplicaciones de estudiantes a Ironhack desde Enero 2022 a Junio 2023. Los datos incluyen información sobre canales de marketing, formatos de curso, decisiones de admisión (continuar o abandonar), campus, curso de interés, etc.
 
-# Dasboard
+# Dashboard
 ![dash](/imagenes/foto_dashboard.png)
 
 
 Para más detalles accede a *[Tableau Public](https://public.tableau.com/app/profile/veronica.moncada/viz/Dashboard_Project_16928121283650/Dashboard12?publish=yes)*.
 
 
+## Autor
+
+Nombre: Verónica Moncada
 
 
 
